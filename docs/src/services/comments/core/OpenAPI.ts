@@ -19,7 +19,7 @@ type Config = {
 }
 
 export const OpenAPI: Config = {
-    BASE: 'https://workers-comments.qubuilder.workers.dev',
+    BASE: 'https://api.comments.qubs.space',
     VERSION: '1.0',
     WITH_CREDENTIALS: false,
     CREDENTIALS: 'include',
